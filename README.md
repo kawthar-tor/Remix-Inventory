@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Inventory Test
 
 ## Description
@@ -64,5 +63,3 @@ http://localhost:5173
 ```
 =======
 # Remix-Inventory
-Technical Test
->>>>>>> 45aaeadb7a9e88e0455516add02778dadb4f853a
