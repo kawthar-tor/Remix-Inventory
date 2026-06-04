@@ -61,5 +61,3 @@ The application will be available at:
 ```text
 http://localhost:5173
 ```
-=======
-# Remix-Inventory
